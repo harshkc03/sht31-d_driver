@@ -1,0 +1,5 @@
+prefixes:
+  sht31: ..
+packages:
+  ..:
+    path: ..

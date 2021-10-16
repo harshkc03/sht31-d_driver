@@ -1,2 +1,2 @@
-# sht31-d_driver
-Toit driver for the SHT31-D Digital Temperature &amp; Humidity Sensor
+# SHT31-D
+Toit driver for the [Adafruit's SHT31-D](https://www.adafruit.com/product/2857) Digital Temperature and Humidity Sensor

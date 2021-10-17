@@ -4,7 +4,7 @@
 
 import i2c
 import gpio
-import sht31
+import sht31_d_driver.sht31
 
 main:
     bus := i2c.Bus
